@@ -2,7 +2,7 @@
 
 # Welcome to My GitHub Profile! 👋
 
-![Banner GIF](https://yourgifurl.com/banner.gif)
+![Banner GIF](https://cdn.dribbble.com/users/2536766/screenshots/7446414/univers_1.gif)
 
 I'm **[Your Name]**, a passionate developer with a love for building innovative and scalable software solutions.
 
