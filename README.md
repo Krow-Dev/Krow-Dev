@@ -1,8 +1,10 @@
+<div align="center">
+
 # Welcome to My GitHub Profile! 👋
 
 ![Banner GIF](https://yourgifurl.com/banner.gif)
 
-I'm **Krow Dev**, a passionate developer with a love for building innovative and scalable software solutions.
+I'm **[Your Name]**, a passionate developer with a love for building innovative and scalable software solutions.
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=00F700&lines=Full+Stack+Developer;Open+Source+Contributor;Lifelong+Learner)
 
@@ -37,6 +39,13 @@ I'm **Krow Dev**, a passionate developer with a love for building innovative and
 
 ---
 
+### 🎶 Listen to Music While Browsing:
+
+[![Spotify](https://img.shields.io/badge/-Listen%20on%20Spotify-1DB954?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/yourplaylistlink)
+[![SoundCloud](https://img.shields.io/badge/-Listen%20on%20SoundCloud-FF5500?style=flat&logo=soundcloud&logoColor=white)](https://soundcloud.com/yourprofile)
+
+---
+
 ### 💬 Connect with Me:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
@@ -50,3 +59,4 @@ I'm **Krow Dev**, a passionate developer with a love for building innovative and
 - Email: [youremail@example.com](mailto:youremail@example.com)
 - Twitter: [@yourhandle](https://twitter.com/yourhandle)
 
+</div>
