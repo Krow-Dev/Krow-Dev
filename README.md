@@ -4,7 +4,7 @@
 
 ![Banner GIF](https://cdn.dribbble.com/users/2536766/screenshots/7446414/univers_1.gif)
 
-I'm **[Your Name]**, a passionate developer with a love for building innovative and scalable software solutions.
+I'm **[Krow Dev]**, a passionate developer with a love for building innovative and scalable software solutions.
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=00F700&lines=Full+Stack+Developer;Open+Source+Contributor;Lifelong+Learner)
 
